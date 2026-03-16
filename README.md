@@ -1,9 +1,64 @@
-- 👋 Hi, I’m Ann Rachel Panicker. Currently enrolled in the final semester of CST - Systems Analyst program at Sheridan College
-- 👀 I’m interested in Web Development. Have experience in coding in HTML5, CSS, Bootstrap and JavaScript and got exposure to digital accessibility which I would like to explore further
-- 🌱 I’m currently learning web development frameworks
-- 📫 How to reach me: https://www.linkedin.com/in/annrpanicker/
+# 👋 Hi, I'm Ann Rachel Panicker
 
-<!---
-annrp/annrp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Software Developer at Bell Media
+
+I build and maintain REST APIs that support internal applications at Bell Media. My work involves developing backend services, deploying containerized services, troubleshooting production issues, and ensuring system reliability in live environments.
+
+I primarily work with **C#, JavaScript, and Vue.js**, and use **Docker, PostgreSQL, and AWS** as part of my daily development workflow. I enjoy building scalable backend systems and improving application performance and stability.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+C#, JavaScript
+
+**Frameworks & Libraries**
+.NET, Vue.js
+
+**Backend & APIs**
+REST API development, Microservices
+
+**Databases**
+PostgreSQL
+
+**Cloud & DevOps**
+Docker, AWS
+
+**Tools**
+Git, CI/CD pipelines
+
+---
+
+## 🚀 What I'm Currently Working On
+
+* Building and maintaining REST APIs
+* Deploying and supporting backend services in production environments
+* Improving system reliability and troubleshooting production issues
+* Learning more about AWS services
+
+---
+
+## 📂 Projects
+
+Here are some things I’m working on and exploring:
+
+RPG Quest API
+A REST API for managing RPG quests built with FastAPI, with a Vue.js frontend and PostgreSQL backend. This project focuses on API design, database modeling, and full-stack integration.
+
+Personal Portfolio Website
+A basic personal portfolio built with HTML and JavaScript. I’m currently working on improving it and plan to rebuild it using a modern frontend framework.
+
+---
+
+## 🌱 Currently Learning
+
+* AWS cloud services and infrastructure
+* Python for backend development
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: www.linkedin.com/in/annrpanicker
+  
