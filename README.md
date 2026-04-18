@@ -23,7 +23,7 @@ REST API development, Microservices
 PostgreSQL
 
 **Cloud & DevOps**
-Docker, AWS
+Docker, AWS, Terraform
 
 **Tools**
 Git, CI/CD pipelines
