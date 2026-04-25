@@ -49,6 +49,12 @@ A REST API for managing RPG quests built with FastAPI, with a Vue.js frontend an
 Personal Portfolio Website
 A basic personal portfolio built with HTML and JavaScript. I’m currently working on improving it and plan to rebuild it using a modern frontend framework.
 
+Terraform learning plan
+To understand Infrastructure As Code and learn how to deploy resources using terraform
+
+Weekly Planner App
+A full-stack weekly planner app where users can manage weekly events. It is built with a React + Vite frontend, a Node.js + Express backend, and SQLite for data storage, with optional Google Calendar integration for sync and import
+
 ---
 
 ## 🌱 Currently Learning
