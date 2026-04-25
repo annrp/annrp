@@ -26,7 +26,7 @@ PostgreSQL
 Docker, AWS, Terraform
 
 **Tools**
-Git, CI/CD pipelines
+Git, CI/CD pipelines, CoPilot, Cursor
 
 ---
 
@@ -36,6 +36,7 @@ Git, CI/CD pipelines
 * Deploying and supporting backend services in production environments
 * Improving system reliability and troubleshooting production issues
 * Learning more about AWS services
+* Experimenting with AI coding agents - Cursor, Github Copilot
 
 ---
 
@@ -43,16 +44,16 @@ Git, CI/CD pipelines
 
 Here are some things I’m working on and exploring:
 
-RPG Quest API
+## RPG Quest API
 A REST API for managing RPG quests built with FastAPI, with a Vue.js frontend and PostgreSQL backend. This project focuses on API design, database modeling, and full-stack integration.
 
-Personal Portfolio Website
+## Personal Portfolio Website
 A basic personal portfolio built with HTML and JavaScript. I’m currently working on improving it and plan to rebuild it using a modern frontend framework.
 
-Terraform learning plan
-To understand Infrastructure As Code and learn how to deploy resources using terraform
+## Terraform learning plan
+A hands-on learning project to practice Infrastructure as Code and cloud resource provisioning with Terraform.  
 
-Weekly Planner App
+## Weekly Planner App
 A full-stack weekly planner app where users can manage weekly events. It is built with a React + Vite frontend, a Node.js + Express backend, and SQLite for data storage, with optional Google Calendar integration for sync and import
 
 ---
@@ -61,6 +62,7 @@ A full-stack weekly planner app where users can manage weekly events. It is buil
 
 * AWS cloud services and infrastructure
 * Python for backend development
+* Infrastructure as Code with Terraform
 
 ---
 
