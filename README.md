@@ -26,7 +26,7 @@ PostgreSQL
 Docker, AWS, Terraform
 
 **Tools**
-Git, CI/CD pipelines, CoPilot, Cursor
+Git, CI/CD pipelines, CoPilot, Claude Code
 
 ---
 
@@ -36,7 +36,7 @@ Git, CI/CD pipelines, CoPilot, Cursor
 * Deploying and supporting backend services in production environments
 * Improving system reliability and troubleshooting production issues
 * Learning more about AWS services
-* Experimenting with AI coding agents - Cursor, Github Copilot
+* Experimenting with AI coding agents - Cursor, Github Copilot, Claude Code
 
 ---
 
